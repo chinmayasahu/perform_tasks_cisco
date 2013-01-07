@@ -1,0 +1,8 @@
+Copy the script into your machine and grant execute permission to execute this.
+chmod  774 /home/chinu/perform_task.ksh
+Run with complete path as
+$/home/chinu/perform_task.ksh
+
+It ask for the inputs  for the operations. Please follows the instructions asked by the script.
+For password change need to login as root user.
+For remote machine login or remote execution, The script ask for  password  to enter interactively.It can be remediate by  secure key sharing between the servers
